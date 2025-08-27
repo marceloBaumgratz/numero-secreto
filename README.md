@@ -1,9 +1,9 @@
-Jogo do número secreto
+**Jogo do número secreto**
 
-Sobre:
+**Sobre:**
 Projeto desenvolvido no curso de Lógica de Programação da Allura.
 
-Linguagens utilizadas:
+**Linguagens utilizadas:**
 CSS - HTML - JAVASCRIPT
 
-Desenvolvido por Marcelo
+*Desenvolvido por Marcelo*
